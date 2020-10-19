@@ -1,3 +1,9 @@
+## Assignment 
+
+Build a Single Page Application (SPA) that serves as a Control &amp; Manage. System (CMS) for a JSON list from the file cars.json.
+
+The page should have a list of cars, which when clicked on will show detailed information about that car (their full model-name, brand, production year and so on…). This data should be possible to change and doing so should update the list.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
